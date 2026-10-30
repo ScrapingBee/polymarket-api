@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="polymarket-api" />
+    <img src="https://github.com/user-attachments/assets/f665721a-f488-4d56-8175-d5f4f3b4e112" alt="polymarket-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/polymarket-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/polymarket-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/polymarket-api.svg)](LICENSE)
